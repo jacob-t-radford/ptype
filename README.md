@@ -17,7 +17,7 @@ Most of what you might want to change is in:
 
 A sample of netcdf and geojson files is included where appropriate.  
 
-I haven't had time to clean up the scripts used to generate the netcdf and geojsons, but they are located in ptype/scripts.
+I haven't had time to clean up the scripts used to generate the netcdf and geojsons on Casper, but they are located in ptype/scripts.
 
 <pre><code>ptype/
 ├── backend/
