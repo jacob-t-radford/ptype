@@ -15,7 +15,9 @@ Most of what you might want to change is in:
 **ptype/frontend/src/hooks/Hooks.js** (Main component/functionality modifications)  
 **ptype/frontend/src/js/sounding.js** (Skew-T component modifications)  
 
-A sample of netcdf and geojson files is included where appropriate.
+A sample of netcdf and geojson files is included where appropriate.  
+
+I haven't had time to clean up the scripts used to generate the netcdf and geojsons, but they are located in ptype/scripts.
 
 <pre><code>ptype/
 ├── backend/
