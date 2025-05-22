@@ -4,6 +4,8 @@ https://www.precipitationtype.com
 
 This repository contains a full-stack web application to visualize precipitation type probabilities. The frontend is built with **React**, and the backend is a **Flask** API served via **Gunicorn** behind an **Nginx** reverse proxy.
 
+It is currently running on a t2.medium instance on the AWS CISL AI2ES Testbed.
+
 ![](Screenshot.jpg)
 
 ## 🗂 Contents
