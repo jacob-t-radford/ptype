@@ -31,8 +31,8 @@ I haven't had time to clean up the scripts used to generate the netcdf and geojs
 ├── frontend/
 |   ├── package-lock.json
 |   ├── package.json (Manifest)
-│   ├── build/
-|   |   └── .../ (Production app)
+│   ├── build/ (Production app)
+|   |   └── .../ 
 │   ├── public/
 |   |   ├── bounds.geojson/ (Central region bounds)
 |   |   ├── evi_frzr/ (Pre-generated evidential frzr layer geojsons)
